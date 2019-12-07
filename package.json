@@ -1,0 +1,30 @@
+{
+  "name": "nvif1989",
+  "version": "0.0.1",
+  "description": "Kit for Nutritive Value of Indian Foods 1989.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/nvif1989.git"
+  },
+  "keywords": [
+    "nvif",
+    "1989",
+    "nutritive",
+    "value",
+    "indian",
+    "food",
+    "composition",
+    "tables",
+    "database"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/nvif1989/issues"
+  },
+  "homepage": "https://github.com/nvif1989/nvif1989#readme"
+}
