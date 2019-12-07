@@ -1,0 +1,41 @@
+# Nutritive Value of Indian Foods 1989
+# C. Gopalan, B.V. Rama Sastri & S.C. Balasubramanian
+#
+# Copyright © 1989 by National Institute of Nutrition
+# Indian Council of Medical Research
+# Department of Health Research Ministry of Health and Family Welfare, Government of India
+# Jamai Osmania (PO), Hyderabad – 500 007
+# Telangana, India Phone: +91 40 27197334, Fax: +91 40 27000339, Email: nin@ap.nic.in
+#
+# COLUMN DESCRIPTIONS
+# - Column Code
+# - Column Name
+# - Tags
+code,name,tags
+code,Food Code,id tag legend
+name,Food Name,title label
+scie,Scientific Name,binomial genus botanical
+grup,Food Group,category class classification grouping type sort kind
+tags,Tags,
+#
+# TABLE 1
+water,Moisture,total liquid steam vapour proximate
+protcnt,Protein,total essential macronutrient proximate
+fatce,Fat,total triglyceride lipid blubber essential macronutrient
+ash,Minerals,total metal oxide mineral inorganic element residue proximate
+fibtg,Crude Fiber,dietary fibre roughage bulk indigestible
+choavldf,Carbohydrates,total cho saccharide ose glucide hydrate carbon macronutrient proximate
+enerc,Energy,total atp calorie metabolism essential proximate kj kilojoule kilo joule
+ca,Calcium (Ca),quantity alkaline earth metal mineral chemical element
+p,Phophorus (P),quantity nonmetal mineral chemical element
+fe,Iron (Fe),trace transition metal mineral chemical element
+#
+# TABLE 2
+cartoid,Carotene,total carotene xanthophyll carotenoid tetraterpenoid terpenoid isoprenoid phytochemical orange yellow pigment
+thia,Thiamine (B1),thiamin aneurine vitamin b1 b 1 water soluble essential
+ribf,Riboflavin (B2),vactochrome lactoflavin vitamin b2 b 2 water soluble g essential
+nia,Niacin (B3),nicotinic acid nicotinamide bionic vitamin b3 b 3 pp water soluble essential white translucent crystalline crystal
+vitb6c,Total B6,pn p5p pl plp pm pmp pa pyridoxine pyridoxal pyridoxamine pyridoxic acid pyritinol vitamer vitamin b6 b 6 water soluble essential
+folfre,Folic Acid (B9) (free),folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b9 b 9 bc m water soluble essential
+folsum,Folic Acid (B9) (Total),folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b9 b 9 bc m water soluble essential
+vitc,Vitamin C,ascorbic acid total ascorbate water soluble essential
