@@ -19,8 +19,8 @@ var CORPUS = new Map([
   ["ribf", {code:"ribf",name:"Riboflavin (B2)",tags:"vactochrome lactoflavin vitamin b2 b 2 water soluble g essential"}],
   ["nia", {code:"nia",name:"Niacin (B3)",tags:"nicotinic acid nicotinamide bionic vitamin b3 b 3 pp water soluble essential white translucent crystalline crystal"}],
   ["vitb6c", {code:"vitb6c",name:"Total B6",tags:"pn p5p pl plp pm pmp pa pyridoxine pyridoxal pyridoxamine pyridoxic acid pyritinol vitamer vitamin b6 b 6 water soluble essential"}],
-  ["folfre", {code:"folfre",name:"Folic Acid (B9) (free)",tags:"folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b9 b 9 bc m water soluble essential"}],
-  ["folsum", {code:"folsum",name:"Folic Acid (B9) (Total)",tags:"folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b9 b 9 bc m water soluble essential"}],
+  ["folfre", {code:"folfre",name:"Folic Acid (B9) (free)",tags:"folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b 9 bc m water soluble essential"}],
+  ["folsum", {code:"folsum",name:"Folic Acid (B9) (Total)",tags:"total folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b 9 bc m water soluble essential folate pteroyl glutamic acid glutamate folic folacin vitamin b9 b 9 bc m water soluble essential"}],
   ["vitc", {code:"vitc",name:"Vitamin C",tags:"ascorbic acid total ascorbate water soluble essential"}],
 ]);
 module.exports = CORPUS;
