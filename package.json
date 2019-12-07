@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/columns",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Columns in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/nvif1989/columns/issues"
   },
-  "homepage": "https://github.com/nvif1989/columns#readme"
+  "homepage": "https://github.com/nvif1989/columns#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.2"
+  }
 }
