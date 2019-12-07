@@ -1,0 +1,28 @@
+{
+  "name": "@nvif1989/columns",
+  "version": "0.0.3",
+  "description": "Columns in Nutritive Value of Indian Foods 1989.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/columns.git"
+  },
+  "keywords": [
+    "nvif",
+    "1989",
+    "columns",
+    "nutritive",
+    "value",
+    "indian",
+    "food"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/columns/issues"
+  },
+  "homepage": "https://github.com/nvif1989/columns#readme"
+}
