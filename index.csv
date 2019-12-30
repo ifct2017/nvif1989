@@ -1954,7 +1954,7 @@
 "Madarang (O.)",101
 "Madavai (Tam.)",360
 "Madh (Mar.)",440
-"Madhu paka",280,440
+"Madhu paka","280,440"
 "Madhura kizhangu ilagal (Mal.)",501
 "Madhura naranga (Mal.)",284
 "Madrar (Kash.)",439
@@ -1980,14 +1980,14 @@
 "Maize, tender",6
 "Majjiga (Tel.)",424
 "Majjige (Kan.)",424
-"Maka (H.,Mar.,O.)",5,6
-"Makaa'y (Kash.)",5,6
-"Makai (G.)",5,6
+"Maka (H.,Mar.,O.)","5,6"
+"Makaa'y (Kash.)","5,6"
+"Makai (G.)","5,6"
 "Makhan (B.,H.,P.)",434
 "Makhana (B.,G.,H.) .",462
-"Makhan sim",143,183
+"Makhan sim","143,183"
 "Makhantana doodh (B.)",432
-"Makka cholam (Tam.)",5,6
+"Makka cholam (Tam.)","5,6"
 "Makoy (H.)",92
 "Mala (Kan.)",360
 "Malan (Mal.)",368
@@ -2021,7 +2021,7 @@
 "Manga andi parippu (Mal.)",546
 "Manga inji (Mal.)",121
 "Mangali kathi (Tel.)",336
-"Mangifera indica",170,228,278,546
+"Mangifera indica","170,228,278,546"
 "Mango fish",391
 "Mango ginger",121
 "Mango, green",170
@@ -2041,7 +2041,7 @@
 "Manuka (Mar.)",300
 "Mapu jella (Tel.)",385
 "Mara (Kan.)",246
-"Marcha (G.)",217,218
+"Marcha (G.)","217,218"
 "Marachini (Mal.)",132
 "Mara genasu (Kan.)",132
 "Mara kosu (Kan.)",65
