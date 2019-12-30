@@ -16,22 +16,23 @@ await codes.load();
 codes('hing');
 // [ { name: 'Hing (B.,G.,H.,Mar.,P.)', code: '215' } ]
 
-codes('what is food code of atta?');
-codes('atta code');
-// [ { name: 'Atta (H., P.)', code: 'A019' },
-//   { name: 'Gahama atta (O.)', code: 'A019' },
-//   { name: 'Wheat flour, atta (Common)', code: 'A019' } ]
+codes('atta');
+// [
+//   { name: 'Valia atta (Mal.)', code: '384' },
+//   { name: 'Atta (B.,H.,O.)', code: '21' },
+//   { name: 'Am-ka-guthli-ka-atta (H.)', code: '546' }
+// ]
 ```
 
 
-[![ifct2017](http://ninindia.org/images/ifct_2017.png)](https://www.npmjs.com/package/ifct2017)
-> You can ask about composition of 528 key foods in India here: [ifct2017.github.io].<br>
+[![nvif1989](https://i.imgur.com/mGVou5c.png)](https://www.npmjs.com/package/nvif1989)
+> You can ask about composition of 592 key foods in India here: [nvif1989.github.io].<br>
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
-[Indian Food Composition Tables 2017]: http://ifct2017.com/
-[Food codes]: https://github.com/ifct2017/codes/blob/master/index.csv
-[ifct2017.github.io]: https://ifct2017.github.io
-[National Institute of Nutrition, Hyderabad]: http://www.ninindia.org
-[Document]: https://docs.google.com/spreadsheets/d/1Q-M1C3DAEhoA6y7X89M3Fl_zml__v0Mr-fJAYBJkLJc/edit?usp=sharing
-[Webpage]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSZD-_xy9EvbEM2axafTL251gWsCPUYRZA8wAUvscy0MZmHS9bCOpbvqJQsbf5TujlOA8FmL91bOzF8/pubhtml
+[Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
+[Food codes]: https://github.com/nvif1989/codes/blob/master/index.csv
+[nvif1989.github.io]: https://nvif1989.github.io
+[National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
+[Document]: https://docs.google.com/spreadsheets/d/1kQ_uvtA83QVWstHE_ILJIKvff7tBBQ4X0NcxydKA2W4/edit?usp=sharing
+[Webpage]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQtkim3JqHFkdobAjUUmy0S3vv6bG0FwnE8-HG6S03hqYS8BKInKghZcyeiafKed2dNumNyDThcbNP_/pubhtml
