@@ -35,7 +35,7 @@ function setupIndex() {
     this.ref('key');
     this.field('name');
     this.field('code');
-    this.pipeline.remove(lunr.stopWordFilter);
+    // this.pipeline.remove(lunr.stopWordFilter);
     for(var r of corpus.values())
       this.add({key: r.name, name: r.name.replace(/\W+/g, ' '), code: r.code});
   });
