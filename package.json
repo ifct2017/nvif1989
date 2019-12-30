@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/codes",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Food codes from food name in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
