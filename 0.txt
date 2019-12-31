@@ -1,0 +1,18 @@
+Hydrolea sp.
+505,Tam. Velaikeera1 
+6 
+Vella keerai: C/eome viscosa
+506,' HSI '. K B. Hurhuria; G. Talvani; . e aIgon sag; an. Nayibela; Mal. Ariavila; Mar. Kamphuti; Tam. Vellakeerai; Tel. Gominta; Other name: Aditya 
+bhakta. 
+507,Water cress,Nasturtium officinale,G Asalia; H. Chandrasur; Kan. Alvi; Mar. Ahliv; o. Brahmi sag; P. Piriyahalim; Tam. Alli ilai. 
+508,Bokwa,Dioscorea pentaphylla,B. Suaralu; H. Kanta alu; Kan. Nuraigenaru; Mal. Nurunna Kilangu; Mar. Ulassi; Tam. Kathu kizhangu; Tel. Dooka pendalamu; Other names: Kulu, Tigo. 
+509,Budhia,Malothria heterophylla,B. Kudari; H. Anantmul; Mal. Nierinaganpuli; Mar. Gometta; 0 . Karakla; Tam. Pulivanji; Tel. Thiyya donda. 
+510,Bidroot,Scirpus grossus,G. Gundaro; Mar. Kasara; 0. Santara; Tel. Gundu thungagaddi; Other name: Kuseruka. 
+511,"Canna, edible",Canna edulis,
+512,Chumbia,Dioscorea hamiltonii,
+513,Churkia,Dioscorea glabra,Tel. Naratega; Other name: Baiyang 
+514,Epedong sanga,Peucedanum nagpurense,
+515,Garmer,Coleus barbatus,
+516,Jipoo sanga,Habenaria cammelinifolia,
+517,Lotus root,Nelumbium nelumbo,B. Padma; G. Surya kamal; H. Kamal-ki-jodh; Kan. Kamla dambu; Kash. Nadur; Mal. , Tam. ;hamara kizhangu; Mar. Kamal; 0. Padam; Tel. hamara dumpa; Other name: Ambuja. 
+518,Moor sanga,Butea frondosa, B., Mar., Mal. Palas; G Khakra; Kan. Muthunga; am. Parasa; Tel. Moduga; Other name: Palasha
