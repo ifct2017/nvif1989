@@ -1,3 +1,83 @@
+"431,432",Skimmed milk powder,,"B. Makhantana doodh; Kash Gurus; Mal. Padakalanya pal, O. Sarakadha dudha; Tam. Kudaintha pal; Tel. Venna theesina palu"
+433,Whole milk powder,,"B. Goora doodh; Tam. Palthool; O. Dudha gunda; Tel., Mal. Pala podi"
+434,Butter,,"B., H., P. Makhan; Kan. Benne; Kash. Thany; Mal., Tel. Venna; Mar. Loni; Tam. Vennai"
+"435,436",Ghee (cow),,"B., H., P. Ghee; Kan. Thuppa; Mal., Tam. Nevy; Mar. Thup; Tel. Neyyi"
+437,Hydrogenated oil,,"B. Banaspati; Other names: Vanaspati; Vegetable ghee"
+438,Vegetable cooking oil,,"B., H., Kan., Mal., Mar. Enne; Tam. Ennai; Tel. Noone"
+439,Cane sugar,Saccharum officinarum,"B., H., P. Chini; Kan. Sakkare; Kash. Madrar; Mal. Panchasara; Tam. Sarkarai; Tel. Pancha dara; Other name: Sakkar"
+440,Honey,,"B. Mou; H. Shaid; Kan. Tenthuppa; Kash. Maanch; Mal., Tam. Then; Mar. Madh; Tel. Thene; Other name: Madhu"
+"441-445",Jaggery,Saccharum offinarum,"B., H., P. Gud; G. Gol; Kan. Bella; Kash. Gor; Mal., Tam. Vellam; Mar. Gul; O. Guda; Tel. Bellam"
+446,Sago,,"B. Saboo; G., Mar. Sabu dana; H., Mal. Sago; Kan. Sabbakki; Kash. Saboo dana; O. Sagu dana; Tam. Javvarisi; Tel. Saggu biyyam"
+447,Pachwai (Assam),,
+"448,449",Toddy,,"B. Tari; H Tarail; Kan. Henda; Mal., Tam., Tel. Kallu; Mar., O. Tadi"
+450,Neera,,
+451,Sugar cane juice,,"B. Ikkhu raush; G. Sherdina ras, H. Ganne-ka-ras; Kan. Kabbina halu; Mal. Karumbin neeru; Mar. Usacha rasa; O. Akhju dorua; P. Ganne-da-ras; Tam. Karuppan charu; Tel. Cheraku Rasam; Other name: Sarkara"
+452,Amaranth seed,Amaranthus sp.,"Mal. Cheera vithu; Tam. Keerai vidai; Tel. Thotakoora ginjalu; Other name: Arikisira"
+453,Bamboo seeds,Bambusa arundinacea,"A. Kotoha; B. Banser dhana; H. Banse-ke-beej; Kan. Biduru; Mal. Mulaari; Tam. Moongil arisi; Tel. Vedura biyyam; Other names: Vansh"
+454,Santi,Echinochloa stagnina,"B. Dul; Kan. Kadu debhai hullu; Mar. Banti; Tel. Bontha oddu"
+455,Buck wheat,Fagopyrum esculentum,"A. Doron; B. Titaphapur; H., Mal., Mar., Tam. Kootu; P. Davan"
+456,Chenopodium album,,"See Sr.No.59"
+457,Cowage seed flour,Mucuna capitata,"H. Kabach sattoo"
+458,Dainchaseeds,Sesbania cannabina,"G. Ikad; H. Dhunchi; Mal. Killannu; Mar. Ranshevari; Tam. Mullagathi; Tel. Errajiluga; Other name: Jayanti"
+459,Job's tears,Colx Lachryma,"B. Gurgur; H. Sankru; Mar. Ranmakka; Tam. Netpavalam; Other names: Jargadi"
+460,Oatmeal,Avenabyzantina,"B. Jai; G., H., Mar. Jav; Tel. Yavalu"
+461,Kittul flour,Caryota urens,"G. Shivajata; H. Mari; Kan. Bagani; Mal. Kuddapan mavu; Mar. Berli; Tam. Coomdapanai; Tel. Jiluguchettu. Other name: Talipot flour; mada."
+462,Lotus seeds,Nelumbium nelumbo,
+463,Makhana,Euvvale ferox,"B., G., H. Makhana; O. Kuntapadamu; P. Jewar; Tel. Melluni Padmamu"
+464,Rajkeera seeds,Amaranthus paniculatus,
+465,Water lily seeds,Nymphaea nouchali,
+466,Goa beans,Psophocarpus tetragonolobus,
+467,Malmandi,Indigofera glandulosa,
+468,Sutari,Phaseolus calcaratus,"H. Sutri; P. Ghurush; Other name: Rice bean"
+469,Bamboo tender shoots,Bambusa arundinacea,"B. Bansher-ankur; G. Vasasni kupal; H. Bans; Mal. Mulan koombu (elayo); Mar. Kulkipan; O. Baunsa gaja; Tam. Moongil kuruthu; Tel. Veduru chiguru; Other names: Chakratvans"
+470,Ceylon pasali,Talinum triangulare,"Tam. Ceylon pasali"
+471,Chimti sag,Polygonum plebijum,"B. Chemtisag; G. Zinakookhard; Kan. Sirange soppu; O. Muthisaga"
+472,Giria sag,Suaeda nudiflora,"H. Giria sag; Mar. Moras"
+473,Gulcharni,Calonyction muricatum,"B., H. Michai; G. Garayo; Mar. Bhonavari; Tam. Kathutali"
+474,Kasinikeerai,Raphanus sp.,"Tam. Kasini keerai"
+475,Kathasag,Dentella repens,
+476,Kenasag,Commelina benghalensis,"B. Dolopata; H. Kenasag; Mar. Kena; Tel. Vennadenikoora; Tam. Kamavazhar"
+477,Khesari leaves,Lathyrus sativus,"B., H., O. Khesarisag; G. Lang; Mar. Lakh; P. Kisari; Other names: Lakkodi; Charal"
+478,Kaila karhasag,Astercantha longifolla,"B. Kuliakhara; H., Mar. Talma khana; Tam: Nirmulli; Tel. Neerugubbi; Other name. Kokilasha"
+479,Kohar sag,Bauhinia purpurea,"B., Mar. Devakanchan; H. Khairwal; Tam. Mandari; Tel. Kanchanam"
+480,Koria leaves,Bauhinia malabarica,"B. Karmai; H. Ambli; Mar. Korla; Tel. Pulishinta"
+481,Manalkeerai,Mullugo sp.,"H. Baluka sag; Mar. Watuchibhaji; Tam., Mal. Manal keerai; Tel. Isakadasari koora"
+482,Matasag,Antidesma diandrum,"B. Mutta; H. Amari; Tel. Manchipulleri"
+483,Nachukottai keerai,,"Tam. Nachukottai keerai"
+"484,485",Neem leaves,Azardirachta Indica,"B. Neempata; G. Lindolimba; N. Neem ke patti; Kan. Bevu; Mal. Arya veppita; Mar. Kadulimb; O. Nima patra; P. Nim; Tam. Veppilai; Tel. Vepa akulu; Other name: Nimba"
+486,Pacharisi keera,Euphorbia hirta,"Mar., H. Dudhi; Mal. Nelapalai; Tam. Pacharisi keerai; B. Baro kherai; G. Dubeli"
+487,Panna keerai,Celosia sp.,"Tam. Panna keerai. "
+488,Parwar sag,Trichosanther dioica,"B. Potal sag; G. Parwalne pan; H. Parwar sag; Kan. Kadupala vala; Mal. Patolam; Mar. Paduwal; Tam. Kombuppodalai; Tel. Kommu potla; Other name: Putalika"
+489,Pasarai keerai,Portulaca sp.,"Tam. Pasarai keerai"
+490,Patua sag,Corchorus capsularis,"A. Titamara; B. Chinalitapat"
+491,Potato leaves,Solanum tuberosum,"B., H. Alu sag; G., Mar. Batata; Kan. Alu yele; Mal., Tam. Urula kizhangu ilagal; P. Alu de patte; Tel. Alugadda akulu"
+492,Puliara keerai,,"Tam. Puliara keerai"
+493,Punnaku Keerai,Corchorus acutangufus,"Tam. Punnaku keerai"
+494,Perandai,Vitis quadrangularis,"B. Har; G. Chodhari; H. Hadjora; Kan. Perundai; Mal., Tam. Perandai; Mar. Chaudhri; O. Siju; Tel. Nalleru; Other name: Asthisamhara"
+495,Saravallai keerai,Trianthema monogyna,"B. Lovet sabuni; H. Khapra sag; Kan. Muchchugoni; Mar. Pundhari ghentuli; Mal. Pasali keerai; Tam. Saravallai keerai; Tel. Galijeru; Other name: Horse purslane"
+496,Sarli sag,Vangueria spinosa,"B., H., Muyuna; G., Mar. Alu; Kan. Mullakare; Tam. Munakarai; O. Gurbeli; Tel. Visikilamu; Other name: Atu"
+497,Seemai Ponnanganni,Alternanthere sp.,"A. Sessilis; Mal., Tam. Seemai ponnanganni; Tel. Ponnangati kura"
+498,Sinduar sag,Celosia argentia,"B. Swet murga; G. Lapadi; H. Safaid murga; Mar. Kurdu; P. Sarwali; Tel. Gurugu; Other name: Vitunna"
+499,Sinduar sag (wild),Allmania polygonoides,
+500,Sonchal sag,Malva parviflora,"H. Panirak; P. Supra; Other name: Supra"
+501,Soya leaves,Glycine max,"B. Gourikalai sag; H. Soya-ka-sag; Mal. Soya ilagal; O. Soya patra"
+502,Sweet potato greens,Ipomoes batatas,"B. Rangalu sag; G. Kanangi; H., P. Shakarkand sag· Kan. Gensina yele; Mal. Madhura Kizhangu ilagal; Mar. Ratalu; Tam. Vallikizhangu ilai; Tel. Chilagoda dumba akulu"
+503,Thooduvalai keerai,Solanum sp.,"Tam. Thkooduvalai keerai"
+504,Veethi keerai,Cadalia indica,"Tam. Veethi keerai"
+505,Velai keerai,Hydrolea sp.,"Tam. Velaikeerai"
+506,Vella keerai,Cleome viscosa,"B. Hurhuria; G. Talvani; H. Belaigori sag; Kan. Nayibela; Mal. Ariavila; Mar. Kamphuti; Tam. Vellakeerai; Tel. Gominta; Other name: Aditya bhakta"
+507,Water cress,Nasturtium officinale,"G. Asalia; H. Chandrasur; Kan. Alvi; Mar. Ahliv; O. Brahmi sag; P. Piriyahalim; Tam. Alli ilai"
+508,Bokwa,Dioscorea pentaphylla,"B. Suaralu; H. Kanta alu; Kan. Nuraigenaru; Mal. Nurunna Kilangu; Mar. Ulassi; Tam. Kathu kizhangu; Tel. Dooka pendalamu; Other names: Kulu; Tigo"
+509,Budhia,Malothria heterophylla,"B. Kudari; H. Anantmul; Mal. Nierinaganpuli; Mar. Gometta; O. Karakla; Tam. Pulivanji; Tel. Thiyya donda"
+510,Bidroot,Scirpus grossus,"G. Gundaro; Mar. Kasara; O. Santara; Tel. Gundu thungagaddi; Other name: Kuseruka"
+511,"Canna, edible",Canna edulis,
+512,Chumbia,Dioscorea hamiltonii,
+513,Churkia,Dioscorea glabra,"Tel. Naratega; Other name: Baiyang"
+514,Epedong sanga,Peucedanum nagpurense,
+515,Garmer,Coleus barbatus,
+516,Jipoo sanga,Habenaria cammelinifolia,
+517,Lotus root,Nelumbium nelumbo,"B. Padma; G. Surya kamal; H. Kamal-ki-jodh; Kan. Kamla dambu; Kash. Nadur; Mal., Tam. Thamara kizhangu; Mar. Kamal; O. Padam; Tel. Thamara dumpa; Other name: Ambuja"
+518,Moor sanga,Butea frondosa,"B., Mar., Mal. Palas; G. Khakra; Kan. Muthunga; Tam. Parasa; Tel. Moduga; Other name: Palasha"
 519,Murum sanga,Dioscorea spinosa,
 520,Ochen sanga,Momordica cochin chinensis,"B. Golkakra; H. Gulkara; Tel. Adavi kakara"
 521,Song,Dioscorea anguiera,"B. Kukuralu; H. Kasalu"
