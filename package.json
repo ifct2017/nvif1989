@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/descriptions",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Food descriptions in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,11 @@
   "bugs": {
     "url": "https://github.com/nvif1989/descriptions/issues"
   },
-  "homepage": "https://github.com/nvif1989/descriptions#readme"
+  "homepage": "https://github.com/nvif1989/descriptions#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "csv-parse": "^4.8.3",
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
+  }
 }
