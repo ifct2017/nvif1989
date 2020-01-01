@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/descriptions",
-  "version": "0.0.11",
+  "version": "1.0.0",
   "description": "Food descriptions in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
