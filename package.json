@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/compositions",
-  "version": "0.0.30",
+  "version": "0.0.31",
   "description": "Food compositions in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
