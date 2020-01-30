@@ -1,0 +1,29 @@
+{
+  "name": "@nvif1989/groups",
+  "version": "0.0.1",
+  "description": "Food compositions in Nutritive Value of Indian Foods 1989.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/groups.git"
+  },
+  "keywords": [
+    "nvif",
+    "1989",
+    "food",
+    "composition",
+    "nutritive",
+    "value",
+    "indian",
+    "table"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/groups/issues"
+  },
+  "homepage": "https://github.com/nvif1989/groups#readme"
+}
