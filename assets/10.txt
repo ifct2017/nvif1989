@@ -8,19 +8,19 @@
 # Jamai Osmania (PO), Hyderabad – 500 007
 # Telangana, India Phone: +91 40 27197334, Fax: +91 40 27000339, Email: nin@ap.nic.in
 #
-# FATTY ACID COMPOSITION OF SOME IMPORTANT EDIBLE OILS AND FATS
-# (Values are percentage of total methylester of fatty acid)
+# FAT AND FATTY ACID COMPOSITION OF SOME COMMON FOODS (g/100g)
 # - SI. No.
-# - Oil / Fats
-# - Palmitic 16:0 [%]
-# - Stearic 18:0 [%]
-# - Arachidic 20:0 [%]
-# - Behenic 22:0 [%]
-# - Lignoceric 24:0 [%]
-# - Total Saturates [%]
-# - Palmitoleic 16:1 [%]
-# - Oleic 18:1 [%]
-# - Total Monounsaturates [%]
-# - Linoleic 18:2 n-6 [%]
-# - a-Linolenic 18:3 n-3 [%]
-# - Total Polyunsaturates [%]
+# - Name of the food stuff
+# - Fat [g]
+# - Palmitic 16:0 [g]
+# - Stearic 18:0 [g]
+# - Arachidic 20:0 [g]
+# - Behenic 22:0 [g]
+# - Lignoceric 24:0 [g]
+# - Total Saturates [g]
+# - Palmitoleic 16:1 [g]
+# - Oleic 18:1 [g]
+# - Total Monounsaturates [g]
+# - Linoleic 18:2 n-6 [g]
+# - a-Linolenic 18:3 n-3 [g]
+# - Total Polyunsaturates [g]
