@@ -4,6 +4,8 @@ protcnt,1
 fatce,1
 ash,1
 fibtg,1
+fibins,1
+fibsol,1
 choavldf,1
 enerc,1
 ca,1e-3
@@ -61,8 +63,6 @@ phytacp,1e-3
 
 
 
-fibins,1
-fibsol,1
 pantac,1e-3
 biot,1e-6
 retol,1e-6
