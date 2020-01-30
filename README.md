@@ -15,21 +15,31 @@ groups.load();
 
 groups('cereals');
 groups('Millet');
-// [ { code: 'A',
-//     group: 'Cereals and Millets',
-//     entries: 24,
-//     tags: 'vegetarian eggetarian fishetarian veg' } ]
+// [
+//   {
+//     code: '1-27;452-465;505a',
+//     group: 'Cereal grains and products',
+//     entries: 42,
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   }
+// ]
 
 groups('what is vegetable?');
 groups('vegetable group code?');
-// [ { code: 'D',
-//     group: 'Other Vegetables',
-//     entries: 78,
-//     tags: 'vegetarian eggetarian fishetarian veg' },
-//   { code: 'C',
-//     group: 'Green Leafy Vegetables',
-//     entries: 34,
-//     tags: 'vegetarian eggetarian fishetarian veg' } ]
+// [
+//   {
+//     code: '47-114;469-507',
+//     group: 'Leafy vegetables',
+//     entries: 107,
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   },
+//   {
+//     code: '137-188;525-543',
+//     group: 'Other vegetables',
+//     entries: 71,
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   }
+// ]
 ```
 
 
@@ -39,8 +49,8 @@ groups('vegetable group code?');
 > Take a peek at the raw data here: [Document], [Webpage].
 
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Food descriptions]: https://github.com/nvif1989/descriptions/blob/master/index.csv
+[Food groups]: https://github.com/nvif1989/groups/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
-[Document]: https://docs.google.com/spreadsheets/d/1mQgRIU0EO8t1ZT72Fc6qAgcWBoqBTMK-gYl5fS9CrFE/edit?usp=sharing
-[Webpage]: https://docs.google.com/spreadsheets/d/e/2PACX-1vSrD1oY4lNHWpBxzKsnYW9RelZDksfhuDITKyqGqUYAu69V6EyeIe7RajqxxKNu6_bCAg5Il7mB1WGC/pubhtml
+[Document]: https://docs.google.com/spreadsheets/d/1a1uTkfoyaQeGpSB_20NtIiKibABYOF7w0EErscrgibw/edit?usp=sharing
+[Webpage]: https://docs.google.com/spreadsheets/d/e/2PACX-1vTff_Ezvu3vMtB3vwSuyq2Y6Yop8-lhx3_XpJTsawKe-rcXC6KbfwSSeykM59Nbu7s3r2AYaRIHxH8J/pubhtml
