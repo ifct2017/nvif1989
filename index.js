@@ -3,6 +3,8 @@ const lunr = require('lunr');
 const path = require('path');
 
 var corpus = new Map();
+var ranges = new Map();
+var exacts = new Map();
 var index = null;
 var ready = false;
 
@@ -24,6 +26,15 @@ function setupIndex() {
   });
 };
 
+function setupRanges() {
+  for(var {code, entries} of corpus.values()) {
+    for(var entry of entries.split(';')) {
+      if(!entry.includes('-')) exacts.set(entry, code);
+      else ranges.set(entry.split('-').map(v => parseInt(v, 10)), code);
+    }
+  }
+}
+
 function csv() {
   return path.join(__dirname, 'index.csv');
 };
@@ -35,9 +46,17 @@ function sql(tab='groups', opt={}) {
 
 function load() {
   if(ready) return true;
-  loadCorpus(); setupIndex();
+  loadCorpus(); setupIndex(); setupRanges();
   return ready = true;
 };
+
+function code(entry) {
+  if(exacts.has(entry)) return exacts.get(entry);
+  var n = parseInt(entry, 10);
+  for(var [[bgn, end], code] of ranges)
+    if(bgn<=n && n<=end) return code;
+  return null;
+}
 
 function groups(txt) {
   if(index==null) return [];
@@ -52,5 +71,6 @@ function groups(txt) {
 groups.csv = csv;
 groups.sql = sql;
 groups.load = load;
+groups.code = code;
 groups.corpus = corpus;
 module.exports = groups;
