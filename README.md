@@ -14,7 +14,7 @@ groups.load();
 /* load corpus first */
 
 groups('cereals');
-groups('Millet');
+groups('Grains');
 // [
 //   {
 //     code: '1-27;452-465;505a',
