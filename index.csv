@@ -1,16 +1,16 @@
 code,group,entries,tags
-1-27;452-465;505a,Cereal grains and products,0,vegetarian eggetarian fishetarian veg
-28-46;466-468,Pulses and Legumes,0,vegetarian eggetarian fishetarian veg
-47-114;469-507,Leafy vegetables,0,vegetarian eggetarian fishetarian veg
-115-136;508-524,Roots and Tubers,0,vegetarian eggetarian fishetarian veg
-137-188;525-543,Other vegetables,0,vegetarian eggetarian fishetarian veg
-189-213;544-555,Nuts and Oil seeds,0,vegetarian eggetarian fishetarian veg
-214-237;557-584,Condiments and Spices,0,vegetarian eggetarian fishetarian veg
-238-310;556-584,Fruits,0,vegetarian eggetarian fishetarian veg
-311-396,Fishes and Other sea foods,0,fishetarian nonveg
-397-417;585-590,Meat and Polutry,0,nonveg
-418-433;591-592,Milk and Milk products,0,vegetarian eggetarian fishetarian veg
-434-438;601-616,Fats and Edible oils,0,vegetarian eggetarian fishetarian veg
-439-446,Sugars,0,vegetarian eggetarian fishetarian veg
-447-449,Beverages (Alcoholic),0,vegetarian eggetarian fishetarian veg
-450-451,Beverages (Non-Alcoholic),0,vegetarian eggetarian fishetarian veg
+1-27;452-465;505a,Cereal grains and products,42,vegetarian eggetarian fishetarian veg
+28-46;466-468,Pulses and Legumes,22,vegetarian eggetarian fishetarian veg
+47-114;469-507,Leafy vegetables,107,vegetarian eggetarian fishetarian veg
+115-136;508-524,Roots and Tubers,39,vegetarian eggetarian fishetarian veg
+137-188;525-543,Other vegetables,71,vegetarian eggetarian fishetarian veg
+189-213;544-555,Nuts and Oil seeds,37,vegetarian eggetarian fishetarian veg
+214-237,Condiments and Spices,24,vegetarian eggetarian fishetarian veg
+238-310;556-584,Fruits,102,vegetarian eggetarian fishetarian veg
+311-396,Fishes and Other sea foods,86,fishetarian nonveg
+397-417;585-590,Meat and Polutry,27,nonveg
+418-433;591-592,Milk and Milk products,18,vegetarian eggetarian fishetarian veg
+434-438;601-616,Fats and Edible oils,21,vegetarian eggetarian fishetarian veg
+439-446,Sugars,8,vegetarian eggetarian fishetarian veg
+447-449,Beverages (Alcoholic),3,vegetarian eggetarian fishetarian veg
+450-451,Beverages (Non-Alcoholic),2,vegetarian eggetarian fishetarian veg
