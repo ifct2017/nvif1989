@@ -3,7 +3,7 @@ const CORPUS = new Map([
   ["B", {code:"B",group:"Pulses and Legumes",entries:"28-46;466-468",tags:"vegetarian eggetarian fishetarian veg"}],
   ["C", {code:"C",group:"Leafy vegetables",entries:"47-114;469-507",tags:"vegetarian eggetarian fishetarian veg"}],
   ["F", {code:"F",group:"Roots and Tubers",entries:"115-136;508-524",tags:"vegetarian eggetarian fishetarian veg"}],
-  ["D", {code:"D",group:"Other vegetables",entries:"137-188;525-543",tags:"vegetarian eggetarian fishetarian veg"}],
+  ["DJ", {code:"DJ",group:"Other vegetables",entries:"137-188;525-543",tags:"vegetarian eggetarian fishetarian veg"}],
   ["H", {code:"H",group:"Nuts and Oil seeds",entries:"189-213;544-555",tags:"vegetarian eggetarian fishetarian veg"}],
   ["G", {code:"G",group:"Condiments and Spices",entries:"214-237",tags:"vegetarian eggetarian fishetarian veg"}],
   ["E", {code:"E",group:"Fruits",entries:"238-310;556-584",tags:"vegetarian eggetarian fishetarian veg"}],
