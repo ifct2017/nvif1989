@@ -1,16 +1,16 @@
-code,range,group,entries,tags
-A,1-27;452-465;505a,Cereal grains and products,42,vegetarian eggetarian fishetarian veg
-B,28-46;466-468,Pulses and Legumes,22,vegetarian eggetarian fishetarian veg
-C,47-114;469-507,Leafy vegetables,107,vegetarian eggetarian fishetarian veg
-F,115-136;508-524,Roots and Tubers,39,vegetarian eggetarian fishetarian veg
-D,137-188;525-543,Other vegetables,71,vegetarian eggetarian fishetarian veg
-H,189-213;544-555,Nuts and Oil seeds,37,vegetarian eggetarian fishetarian veg
-G,214-237,Condiments and Spices,24,vegetarian eggetarian fishetarian veg
-E,238-310;556-584,Fruits,102,vegetarian eggetarian fishetarian veg
-PQRS,311-396,Fishes and Other sea foods,86,fishetarian nonveg
-MNO,397-417;585-590,Meat and Polutry,27,nonveg
-L,418-433;591-592,Milk and Milk products,18,vegetarian eggetarian fishetarian veg
-T,434-438;601-616,Fats and Edible oils,21,vegetarian eggetarian fishetarian veg
-I,439-446,Sugars,8,vegetarian eggetarian fishetarian veg
-K1,447-449,Beverages (Alcoholic),3,vegetarian eggetarian fishetarian veg
-K2,450-451,Beverages (Non-Alcoholic),2,vegetarian eggetarian fishetarian veg
+code,group,entries,tags
+A,Cereal grains and products,1-27;452-465;505a,vegetarian eggetarian fishetarian veg
+B,Pulses and Legumes,28-46;466-468,vegetarian eggetarian fishetarian veg
+C,Leafy vegetables,47-114;469-507,vegetarian eggetarian fishetarian veg
+F,Roots and Tubers,115-136;508-524,vegetarian eggetarian fishetarian veg
+D,Other vegetables,137-188;525-543,vegetarian eggetarian fishetarian veg
+H,Nuts and Oil seeds,189-213;544-555,vegetarian eggetarian fishetarian veg
+G,Condiments and Spices,214-237,vegetarian eggetarian fishetarian veg
+E,Fruits,238-310;556-584,vegetarian eggetarian fishetarian veg
+PQRS,Fishes and Other sea foods,311-396,fishetarian nonveg
+MNO,Meat and Polutry,397-417;585-590,nonveg
+L,Milk and Milk products,418-433;591-592,vegetarian eggetarian fishetarian veg
+T,Fats and Edible oils,434-438;601-616,vegetarian eggetarian fishetarian veg
+I,Sugars,439-446,vegetarian eggetarian fishetarian veg
+K1,Beverages (Alcoholic),447-449,vegetarian eggetarian fishetarian veg
+K2,Beverages (Non-Alcoholic),450-451,vegetarian eggetarian fishetarian veg
