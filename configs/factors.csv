@@ -19,6 +19,16 @@ folac,1e-6
 folsum,1e-6
 vitc,1e-3
 choln,1e-6
+mg,1e-3
+na,1e-3
+k,1e-3
+cu,1e-3
+mn,1e-3
+mo,1e-3
+zn,1e-3
+cr,1e-3
+s,1e-6
+cl,1e-3
 
 
 
@@ -48,23 +58,13 @@ crypxb,1e-6
 cartg,1e-6
 carta,1e-6
 cartoid,1e-6
-al,1e-3
-as,1e-6
 cd,1e-3
-cr,1e-3
 co,1e-3
-cu,1e-3
 pb,1e-3
 li,1e-3
-mg,1e-3
-mn,1e-3
 hg,1e-6
-mo,1e-3
 ni,1e-3
-k,1e-3
 se,1e-6
-na,1e-3
-zn,1e-3
 cho,1
 starch,1
 frus,1
