@@ -51,6 +51,16 @@ groups('47');
 //     tags: 'vegetarian eggetarian fishetarian veg'
 //   }
 // ]
+
+groups('543');
+// [
+//   {
+//     code: 'D',
+//     group: 'Other vegetables',
+//     entries: '137-188;525-543',
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   }
+// ]
 ```
 
 
