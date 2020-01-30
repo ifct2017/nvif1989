@@ -50,7 +50,7 @@ function load() {
   return ready = true;
 };
 
-function code(entry) {
+function findEntry(entry) {
   if(exacts.has(entry)) return exacts.get(entry);
   var n = parseInt(entry, 10);
   for(var [[bgn, end], code] of ranges)
@@ -66,11 +66,15 @@ function groups(txt) {
     max = Math.max(max, Object.keys(mat.matchData.metadata).length);
   for(var mat of mats)
     if(Object.keys(mat.matchData.metadata).length===max) z.push(corpus.get(mat.ref));
+  var code = findEntry(txt);
+  if(!code) return z;
+  var mat = corpus.get(code);
+  if(z.includes(mat)) z.splice(z.indexOf(math), 1);
+  z.unshift(mat);
   return z;
 };
 groups.csv = csv;
 groups.sql = sql;
 groups.load = load;
-groups.code = code;
 groups.corpus = corpus;
 module.exports = groups;

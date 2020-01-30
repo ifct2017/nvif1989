@@ -15,11 +15,12 @@ groups.load();
 
 groups('cereals');
 groups('Grains');
+groups('505a');
 // [
 //   {
-//     code: '1-27;452-465;505a',
+//     code: 'A',
 //     group: 'Cereal grains and products',
-//     entries: 42,
+//     entries: '1-27;452-465;505a',
 //     tags: 'vegetarian eggetarian fishetarian veg'
 //   }
 // ]
@@ -28,15 +29,25 @@ groups('what is vegetable?');
 groups('vegetable group code?');
 // [
 //   {
-//     code: '47-114;469-507',
+//     code: 'C',
 //     group: 'Leafy vegetables',
-//     entries: 107,
+//     entries: '47-114;469-507',
 //     tags: 'vegetarian eggetarian fishetarian veg'
 //   },
 //   {
-//     code: '137-188;525-543',
+//     code: 'D',
 //     group: 'Other vegetables',
-//     entries: 71,
+//     entries: '137-188;525-543',
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   }
+// ]
+
+groups('47');
+// [
+//   {
+//     code: 'C',
+//     group: 'Leafy vegetables',
+//     entries: '47-114;469-507',
 //     tags: 'vegetarian eggetarian fishetarian veg'
 //   }
 // ]
