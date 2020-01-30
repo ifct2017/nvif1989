@@ -42,6 +42,18 @@ thr,0.01*protcnt
 leu,0.01*protcnt
 ile,0.01*protcnt
 val,0.01*protcnt
+f16d0,1e-3
+f18d0,1e-3
+f20d0,1e-3
+f22d0,1e-3
+f24d0,1e-3
+fasat,1e-3
+f16d1cn7,1e-3
+f18d1cn9,1e-3
+fams,1e-3
+f18d2cn6,1e-3
+f18d3n3,1e-3
+fapu,1e-3
 
 
 
@@ -86,27 +98,16 @@ sucs,1
 mals,1
 fsugar,1
 lactose,1
-f10d0,1e-3
-f12d0,1e-3
-f14d0,1e-3
-f16d0,1e-3
-f18d0,1e-3
-f20d0,1e-3
-f22d0,1e-3
-f24d0,1e-3
+
+
+
+
 f14d1,1e-3
-f16d1c,1e-3
-f18d1cn9,1e-3
 f20d1n9f,1e-3
 f22d1n9,1e-3
 f24d1c,1e-3
-f18d2cn6,1e-3
 f20d2,1e-3
-f18d3n3,1e-3
 f20d4n6,1e-3
-fasat,1e-3
-fams,1e-3
-fapu,1e-3
 f11d0,1e-3
 f15d0,1e-3
 f16d1,1e-3
