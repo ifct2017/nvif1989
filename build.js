@@ -4,6 +4,7 @@ const os = require('os');
 
 var map = new Map();
 var stream = fs.createReadStream('index.csv').pipe(csvParse({columns: true, comment: '#'}));
+stream.on('error', console.log);
 stream.on('data', (r) => {
   r.entries = parseInt(r.entries, 10);
   map.set(r.code, r);
