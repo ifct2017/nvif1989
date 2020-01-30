@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/groups",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Food compositions in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/nvif1989/groups/issues"
   },
-  "homepage": "https://github.com/nvif1989/groups#readme"
+  "homepage": "https://github.com/nvif1989/groups#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.5"
+  }
 }
