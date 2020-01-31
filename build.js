@@ -1,5 +1,5 @@
-const descriptions = require('@ifct2017/descriptions')
-const groups = require('@ifct2017/groups');
+const descriptions = require('@nvif1989/descriptions')
+const groups = require('@nvif1989/groups');
 const parse = require('csv-parse');
 const path = require('path');
 const fs = require('fs');
