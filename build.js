@@ -40,15 +40,11 @@ var orders = null;
 groups.load();
 
 function valParse(val, code, dat, i) {
-  // console.log({val, code, dat, i});
   var f = factors.get(code);
   var fn = parseFloat(f.replace(/\*.*/, ''));
   var fi = f.indexOf('*'), fk = fi>=0? f.substring(fi+1):null;
   var z = (parseFloat(val)||0)*fn*(fk? parseFloat(dat[fk][i])||0:1);
   // z = parseFloat(z.toExponential((significantDigits(fn)||1)-1));
-  // console.log({f, fn, fi, fk, z});
-  // console.log(round(z));
-  // process.exit();
   return round(z);
 };
 
@@ -126,6 +122,7 @@ async function build() {
   }, new Map());
   for(var file of fs.readdirSync('assets'))
     await readAsset(path.join('assets', file));
+  console.log(dat.fatce[0]);
   nullToZero(dat);
   sumAll(dat);
   dat = orderAll(dat);
