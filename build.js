@@ -49,7 +49,6 @@ function valParse(val, code, dat, i) {
 };
 
 function readAssetRow(row) {
-  console.log(row);
   var cod = row.code.trim();
   var des = descriptions(cod);
   var old = map.has(cod);
@@ -123,6 +122,7 @@ async function build() {
   }, new Map());
   for(var file of fs.readdirSync('assets'))
     await readAsset(path.join('assets', file));
+  console.log(dat.code.length);
   nullToZero(dat);
   sumAll(dat);
   dat = orderAll(dat);
