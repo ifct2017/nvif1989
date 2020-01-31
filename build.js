@@ -122,7 +122,6 @@ async function build() {
   }, new Map());
   for(var file of fs.readdirSync('assets'))
     await readAsset(path.join('assets', file));
-  console.log(dat.code.length);
   nullToZero(dat);
   sumAll(dat);
   dat = orderAll(dat);
