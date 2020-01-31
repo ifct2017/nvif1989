@@ -65,7 +65,7 @@ function nameBas(str) {
 function readAssetRow(row) {
   console.log(row);
   var cod = row.code.trim();
-  var des = descriptions.corpus.get(cod);
+  var des = descriptions(cod);
   var old = map.has(cod);
   var nam = row.name.trim();
   var sci = des.scie;
@@ -73,7 +73,7 @@ function readAssetRow(row) {
   dat.code[i] = cod;
   dat.name[i] = old && dat.name[i].length>nam.length? dat.name[i]:nam;
   dat.scie[i] = sci;
-  dat.lang[i] = (descriptions.corpus.get(cod)||{desc: ''}).desc;
+  dat.lang[i] = (des||{desc: ''}).desc;
   dat.grup[i] = groups(cod[0])[0].group;
   dat.tags[i] = groups(cod[0])[0].tags.trim();
   for(var k in row) {
