@@ -63,23 +63,24 @@ function nameBas(str) {
   return str.replace(new RegExp(`\\(\\s*${sci}\\s*\\)`), '').trim();
 };
 function readAssetRow(row) {
+  console.log(row);
   var cod = row.code.trim();
+  var des = descriptions.corpus.get(cod);
   var old = map.has(cod);
-  var nam = nameBas(row.name);
-  var sci = nameSci(row.name);
+  var nam = row.name.trim();
+  var sci = des.scie;
   var i = old? map.get(cod):map.set(cod, di)&&di++;
   dat.code[i] = cod;
   dat.name[i] = old && dat.name[i].length>nam.length? dat.name[i]:nam;
-  dat.scie[i] = old && dat.scie[i].length>sci.length? dat.scie[i]:sci;
+  dat.scie[i] = sci;
   dat.lang[i] = (descriptions.corpus.get(cod)||{desc: ''}).desc;
   dat.grup[i] = groups(cod[0])[0].group;
   dat.tags[i] = groups(cod[0])[0].tags.trim();
   for(var k in row) {
     if(BASE.includes(k)) continue;
-    var val = row[k].trim().split('±'), kt = renames.get(k)||k;
-    if(!dat[kt]) { dat[kt] = []; dat[kt+'_e'] = []; }
-    dat[kt][i] = valParse(val[0]||'0', k, dat, i);
-    dat[kt+'_e'][i] = valParse(val[1]||'0', k, dat, i);
+    var val = row[k].trim(), kt = renames.get(k)||k;
+    if(!dat[kt]) { dat[kt] = []; }
+    dat[kt][i] = valParse(val||'0', k, dat, i);
   }
 };
 function readAsset(pth) {
