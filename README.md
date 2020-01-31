@@ -1,10 +1,5 @@
 [Food descriptions] in [Nutritive Value of Indian Foods 1989].
 
-```
-Name looks like mispronounced from their
-english version: french beans
-```
-
 ```javascript
 const descriptions = require('@nvif1989/descriptions');
 // descriptions.corpus: Map {code => {code, name, scie, desc}}
@@ -17,16 +12,6 @@ const descriptions = require('@nvif1989/descriptions');
 
 await descriptions.load();
 /* load corpus first */
-
-descriptions('amchoor');
-// [
-//   {
-//     code: '228',
-//     name: 'Mango powder',
-//     scie: 'Mangifera Indica',
-//     desc: 'H. Amchoor'
-//   }
-// ]
 
 descriptions('khoa');
 // [
@@ -43,6 +28,14 @@ descriptions('khoa');
 //     desc: ''
 //   }
 // ]
+
+descriptions('131');
+descriptions('132');
+// [ { code: '131,132',
+//     name: 'Topioca',
+//     scie: 'Manihot esculenta',
+//     desc:
+//      'B., H. Simla alu; Kan. Mara genasu; Mal. Marachini; O. Kathakonda; Tam. Maravalli kizhangu; Tel. Karrapendalamu; Other names: Cassava; Kappa' } ]
 ```
 
 
