@@ -74,7 +74,6 @@ function readAssetRow(row) {
   dat.scie[i] = old && dat.scie[i].length>sci.length? dat.scie[i]:sci;
   dat.lang[i] = (descriptions.corpus.get(cod)||{desc: ''}).desc;
   dat.grup[i] = groups(cod[0])[0].group;
-  dat.regn[i] = parseInt(row.regn.trim(), 10);
   dat.tags[i] = groups(cod[0])[0].tags.trim();
   for(var k in row) {
     if(BASE.includes(k)) continue;
