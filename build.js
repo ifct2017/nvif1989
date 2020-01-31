@@ -50,7 +50,7 @@ function valParse(val, code, dat, i) {
 
 function readAssetRow(row) {
   var cod = row.code.trim();
-  var des = descriptions(cod);
+  var des = descriptions(cod)[0];
   var old = map.has(cod);
   var nam = row.name.trim();
   var sci = des.scie;
