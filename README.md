@@ -31,11 +31,37 @@ descriptions('khoa');
 
 descriptions('131');
 descriptions('132');
+descriptions('topioca');
+descriptions('simla alu');
 // [ { code: '131,132',
 //     name: 'Topioca',
 //     scie: 'Manihot esculenta',
 //     desc:
 //      'B., H. Simla alu; Kan. Mara genasu; Mal. Marachini; O. Kathakonda; Tam. Maravalli kizhangu; Tel. Karrapendalamu; Other names: Cassava; Kappa' } ]
+
+descriptions('126');
+descriptions('127');
+// [ { code: '126-129',
+//     name: 'Radish',
+//     scie: 'Raphanus sativus',
+//     desc:
+//      'B., G., Mar., O. Mula; H., P. Muli; Kan., Mal.; Tam., Tel. Mullangi; Kash. Muj; Other name: Wuazu' } ]
+
+descriptions('Raphanus sativus');
+// [ { code: '103',
+//     name: 'Radish leaves',
+//     scie: 'Raphanus sativus',
+//     desc:
+//      'B., H., G., Mar. Mooli ka sag; Kash. Muji lak; Kan., Mal., Tam. Mullangi ilaigal; Tel. Mullangi akulu; Other name: Mulaka' },
+//   { code: '104',
+//     name: 'Table radish leaves',
+//     scie: 'Raphanus sativus',
+//     desc: '' },
+//   { code: '126-129',
+//     name: 'Radish',
+//     scie: 'Raphanus sativus',
+//     desc:
+//      'B., G., Mar., O. Mula; H., P. Muli; Kan., Mal.; Tam., Tel. Mullangi; Kash. Muj; Other name: Wuazu' } ]
 ```
 
 
