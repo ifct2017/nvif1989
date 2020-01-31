@@ -26,7 +26,15 @@ async function sql(tab='descriptions', opt={}) {
 function loadCorpus() {
   return new Promise((fres) => {
     var stream = fs.createReadStream(csv()).pipe(parse({columns: true, comment: '#'}));
-    stream.on('data', (r) => corpus.set(r.code, r));
+    stream.on('data', r => {
+      var {code} = r;
+      for(var c of code.split(',')) {
+        if(!c.includes('-')) { corpus.set(c, r); continue; }
+        var [i, I] = c.split('-').map(p => parseInt(p, 10));
+        for(; i<=I; i++)
+          corpus.set(i.toString(), r);
+      }
+    });
     stream.on('end', fres);
   });
 };
