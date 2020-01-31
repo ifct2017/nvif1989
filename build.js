@@ -48,20 +48,6 @@ function valParse(val, code, dat, i) {
   return round(z);
 };
 
-function nameSci(str) {
-  var bgn = str.lastIndexOf('(');
-  if(bgn<0) return '';
-  var end = str.lastIndexOf(')');
-  end = end<0? str.length:end;
-  var sci = str.substring(bgn+1, end).trim();
-  var spc = sci.search(/\s/g);
-  return spc>=0 && sci!=='small intestine'? sci:'';
-};
-function nameBas(str) {
-  var sci = nameSci(str);
-  if(!sci) return str.trim();
-  return str.replace(new RegExp(`\\(\\s*${sci}\\s*\\)`), '').trim();
-};
 function readAssetRow(row) {
   console.log(row);
   var cod = row.code.trim();
