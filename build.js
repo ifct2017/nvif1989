@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const os = require('os');
 
-const BASE = ['code', 'name', 'scie', 'lang', 'grup', 'regn', 'tags'];
+const BASE = ['code', 'name', 'scie', 'lang', 'grup', 'tags'];
 
 
 function round(val) {
@@ -29,7 +29,6 @@ var dat = {
   scie: [],
   lang: [],
   grup: [],
-  regn: [],
   tags: [],
 };
 var di = 0;
