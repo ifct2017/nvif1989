@@ -28,6 +28,7 @@ function loadCorpus() {
     var stream = fs.createReadStream(csv()).pipe(parse({columns: true, comment: '#'}));
     stream.on('data', r => {
       var {code} = r;
+      corpus.set(code, r);
       for(var c of code.split(',')) {
         if(!c.includes('-')) { corpus.set(c, r); continue; }
         var [i, I] = c.split('-').map(p => parseInt(p, 10));
@@ -69,6 +70,10 @@ function descriptions(txt) {
     max = Math.max(max, Object.keys(mat.matchData.metadata).length);
   for(var mat of mats)
     if(Object.keys(mat.matchData.metadata).length===max) z.push(corpus.get(mat.ref));
+  var row = corpus.get(txt)||corpus.get(parseInt(txt, 10).toString());
+  if(!row) return z;
+  if(z.includes(row)) z.splice(z.indexOf(row), 1);
+  z.unshift(row);
   return z;
 };
 descriptions.csv = csv;
