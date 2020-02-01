@@ -1,6 +1,6 @@
 {
   "name": "nvif1989",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Kit for Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/nvif1989/nvif1989/issues"
   },
-  "homepage": "https://github.com/nvif1989/nvif1989#readme"
+  "homepage": "https://github.com/nvif1989/nvif1989#readme",
+  "dependencies": {
+    "@nvif1989/codes": "^1.0.0",
+    "@nvif1989/columns": "^1.0.1",
+    "@nvif1989/compositions": "^1.0.3",
+    "@nvif1989/descriptions": "^1.0.6",
+    "@nvif1989/groups": "^1.0.10",
+    "@nvif1989/languages": "^1.0.0"
+  }
 }
