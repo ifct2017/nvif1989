@@ -15,6 +15,7 @@ Methods:
 - [descriptions](https://www.npmjs.com/package/@nvif1989/descriptions)
 - [groups](https://www.npmjs.com/package/@nvif1989/groups)
 - [languages](https://www.npmjs.com/package/@nvif1989/languages)
+- [proteinValue](https://www.npmjs.com/package/@nvif1989/proteinvalue)
 
 <br>
 
