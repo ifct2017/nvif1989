@@ -6,6 +6,7 @@ var map = new Map();
 var stream = fs.createReadStream('index.csv').pipe(csvParse({columns: true, comment: '#'}));
 stream.on('error', console.log);
 stream.on('data', (r) => {
+  r.cu = parseFloat(r.cu);
   map.set(r.group, r);
 });
 stream.on('end', () => {
