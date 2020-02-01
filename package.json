@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/caloriecoefficient",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calorie coefficient in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {

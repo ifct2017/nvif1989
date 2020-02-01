@@ -37,6 +37,9 @@ calorieCoefficient('heavy worker');
 //   { group: 'Adult male (heavy worker)', cu: 1.6 },
 //   { group: 'Adult female (heavy worker)', cu: 1.2 }
 // ]
+
+// ->
+// cu: Consumption units
 ```
 
 
