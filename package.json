@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/proteinvalue",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Nutritive value of Proteins in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,9 @@
   "homepage": "https://github.com/nvif1989/proteinvalue#readme",
   "devDependencies": {
     "csv-parse": "^4.8.5"
+  },
+  "dependencies": {
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
   }
 }
