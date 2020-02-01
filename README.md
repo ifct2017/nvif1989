@@ -25,7 +25,7 @@ calorieCoefficient('12');
 //   { group: 'Children 9 to 12 years', cu: 0.8 }
 // ]
 
-cc('adult male');
+calorieCoefficient('adult male');
 // [
 //   { group: 'Adult male (sedentary worker)', cu: 1.0 },
 //   { group: 'Adult male (moderate worker)', cu: 1.2 },
