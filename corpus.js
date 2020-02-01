@@ -10,7 +10,7 @@ const CORPUS = new Map([
   ["PQRS", {code:"PQRS",group:"Fishes and Other sea foods",entries:"311-396",tags:"fishetarian nonveg"}],
   ["MNO", {code:"MNO",group:"Meat and Polutry",entries:"397-417;585-590",tags:"nonveg"}],
   ["L", {code:"L",group:"Milk and Milk products",entries:"418-433;591-592",tags:"vegetarian eggetarian fishetarian veg"}],
-  ["T", {code:"T",group:"Fats and Edible oils",entries:"434-438;601-616",tags:"vegetarian eggetarian fishetarian veg"}],
+  ["T", {code:"T",group:"Fats and Edible oils",entries:"434-438;601-619",tags:"vegetarian eggetarian fishetarian veg"}],
   ["I", {code:"I",group:"Sugars",entries:"439-446",tags:"vegetarian eggetarian fishetarian veg"}],
   ["K1", {code:"K1",group:"Beverages (Alcoholic)",entries:"447-449",tags:"vegetarian eggetarian fishetarian veg"}],
   ["K2", {code:"K2",group:"Beverages (Non-Alcoholic)",entries:"450-451",tags:"vegetarian eggetarian fishetarian veg"}],
