@@ -65,7 +65,7 @@ function readAssetRow(row) {
     if(BASE.includes(k)) continue;
     var val = row[k].trim(), kt = renames.get(k)||k;
     if(!dat[kt]) { dat[kt] = []; }
-    dat[kt][i] = valParse(val||'0', k, dat, i);
+    dat[kt][i] = dat[kt][i]||valParse(val||'0', k, dat, i);
   }
 };
 function readAsset(pth) {
