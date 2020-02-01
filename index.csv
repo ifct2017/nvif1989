@@ -1,16 +1,17 @@
+name,group,bv,npu,per
 Animal proteins
-Egg 96 96 3.8
-Milk 90 85 2.8
-Meat 74 76 3.2
-Fish 80 74 3.5
+Egg,96,96,3.8
+Milk,90,85,2.8
+Meat,74,76,3.2
+Fish,80,74,3.5
 Vegetable proteins
-Rice 80 77 1.7
+Rice,80,77,1.7
 Cereals
-Wheat 66 61 1.3
-Maize 50 48 1.0
+Wheat,66,61,1.3
+Maize,50,48,1.0
 Pulses
-Bengal gram 74 61 1. 1
-Red gram 72 54 1.7
+Bengal gram,74,61,1. 1
+Red gram,72,54,1.7
 Oilseeds
-Groundnut 55
-Gingili 62
+Groundnut,55,,
+Gingili,62,,
