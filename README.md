@@ -13,29 +13,29 @@ const proteinValue = require('@nvif1989/proteinvalue');
 proteinValue.load();
 /* load corpus first */
 
-proteinValue('children 8 years');
-proteinValue('8 years');
-proteinValue('8');
-// [ { group: 'Children 7 to 9 years', cu: 0.7 } ]
-
-proteinValue('12 years');
-proteinValue('12');
+proteinValue('egg');
 // [
-//   { group: 'Adolescents 12 to 21 years', cu: 1.0 },
-//   { group: 'Children 9 to 12 years', cu: 0.8 }
+//   { name: 'Egg', group: 'Animal proteins', bv: 96, npu: 96, per: 3.8 }
 // ]
 
-cc('adult male');
+proteinValue('animal');
 // [
-//   { group: 'Adult male (sedentary worker)', cu: 1.0 },
-//   { group: 'Adult male (moderate worker)', cu: 1.2 },
-//   { group: 'Adult male (heavy worker)', cu: 1.6 }
+//   { name: 'Egg', group: 'Animal proteins', bv: 96, npu: 96, per: 3.8 },
+//   { name: 'Milk', group: 'Animal proteins', bv: 90, npu: 85, per: 2.8 },
+//   { name: 'Meat', group: 'Animal proteins', bv: 74, npu: 76, per: 3.2 },
+//   { name: 'Fish', group: 'Animal proteins', bv: 80, npu: 74, per: 3.5 }
 // ]
 
-proteinValue('heavy worker');
+proteinValue('oilseed');
 // [
-//   { group: 'Adult male (heavy worker)', cu: 1.6 },
-//   { group: 'Adult female (heavy worker)', cu: 1.2 }
+//   {
+//     name: 'Groundnut',
+//     group: 'Oilseeds',
+//     bv: 55,
+//     npu: null,
+//     per: null
+//   },
+//   { name: 'Gingelly', group: 'Oilseeds', bv: 62, npu: null, per: null }
 // ]
 
 // ->
