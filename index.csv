@@ -391,10 +391,6 @@ code,name,scie,desc
 430,Khoa,,"B., H., Kan., Mal., P., Tel. Khoa; O. Kua; Tam. Thirattu pal"
 "431,432",Skimmed milk powder,,"B. Makhantana doodh; Kash Gurus; Mal. Padakalanya pal, O. Sarakadha dudha; Tam. Kudaintha pal; Tel. Venna theesina palu"
 433,Whole milk powder,,"B. Goora doodh; Tam. Palthool; O. Dudha gunda; Tel., Mal. Pala podi"
-434,Butter,,"B., H., P. Makhan; Kan. Benne; Kash. Thany; Mal., Tel. Venna; Mar. Loni; Tam. Vennai"
-"435,436",Ghee (cow),,"B., H., P. Ghee; Kan. Thuppa; Mal., Tam. Nevy; Mar. Thup; Tel. Neyyi"
-437,Hydrogenated oil,,"B. Banaspati; Other names: Vanaspati; Vegetable ghee"
-438,Vegetable cooking oil,,"B., H., Kan., Mal., Mar. Enne; Tam. Ennai; Tel. Noone"
 439,Cane sugar,Saccharum officinarum,"B., H., P. Chini; Kan. Sakkare; Kash. Madrar; Mal. Panchasara; Tam. Sarkarai; Tel. Pancha dara; Other name: Sakkar"
 440,Honey,,"B. Mou; H. Shaid; Kan. Tenthuppa; Kash. Maanch; Mal., Tam. Then; Mar. Madh; Tel. Thene; Other name: Madhu"
 "441-445",Jaggery,Saccharum offinarum,"B., H., P. Gud; G. Gol; Kan. Bella; Kash. Gor; Mal., Tam. Vellam; Mar. Gul; O. Guda; Tel. Bellam"
@@ -552,6 +548,8 @@ code,name,scie,desc
 611,GINGELLY OIL,,
 612,SOYABEAN OIL,,
 613,SUNFLOWER OIL,,
-614,BUTTER,,
+614,Butter,,"B., H., P. Makhan; Kan. Benne; Kash. Thany; Mal., Tel. Venna; Mar. Loni; Tam. Vennai"
 615,LARD,,
 616,TALLOW,,
+617,Hydrogenated oil,,"B. Banaspati; Other names: Vanaspati; Vegetable ghee"
+"618,619",Ghee,,"B., H., P. Ghee; Kan. Thuppa; Mal., Tam. Nevy; Mar. Thup; Tel. Neyyi"
