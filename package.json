@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/proteinvalue",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Nutritive value of Proteins in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
