@@ -1,3 +1,4 @@
+exports.calorieCoefficient = require('@nvif1989/caloriecoefficient');
 exports.codes = require('@nvif1989/codes');
 exports.columns = require('@nvif1989/columns');
 exports.compositions = require('@nvif1989/compositions');

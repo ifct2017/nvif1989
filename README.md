@@ -2,12 +2,13 @@
 
 ```javascript
 const nvif1989 = require('nvif1989');
+// nvif1989.calorieCoefficient(<query>)
 // nvif1989.codes(<query>)
-// nvif1989.columns(<query>)
 // ...
 ```
 
 Methods:
+- [calorieCoefficient](https://www.npmjs.com/package/@nvif1989/caloriecoefficient)
 - [codes](https://www.npmjs.com/package/@nvif1989/codes)
 - [columns](https://www.npmjs.com/package/@nvif1989/columns)
 - [compositions](https://www.npmjs.com/package/@nvif1989/compositions)

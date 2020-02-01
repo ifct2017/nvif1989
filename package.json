@@ -1,6 +1,6 @@
 {
   "name": "nvif1989",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Kit for Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/nvif1989/nvif1989#readme",
   "dependencies": {
+    "@nvif1989/caloriecoefficient": "1",
     "@nvif1989/codes": "1",
     "@nvif1989/columns": "1",
     "@nvif1989/compositions": "1",
