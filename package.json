@@ -1,0 +1,30 @@
+{
+  "name": "@nvif1989/proteinvalue",
+  "version": "0.0.1",
+  "description": "Nutritive value of Proteins in Nutritive Value of Indian Foods 1989.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/proteinvalue.git"
+  },
+  "keywords": [
+    "nvif",
+    "1989",
+    "nutritive",
+    "value",
+    "protein",
+    "indian",
+    "food",
+    "composition",
+    "table"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/proteinvalue/issues"
+  },
+  "homepage": "https://github.com/nvif1989/proteinvalue#readme"
+}
