@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/caloriecoefficient",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Calorie coefficient in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,10 @@
   },
   "homepage": "https://github.com/nvif1989/caloriecoefficient#readme",
   "dependencies": {
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
+  },
+  "devDependencies": {
     "csv-parse": "^4.8.5"
   }
 }
