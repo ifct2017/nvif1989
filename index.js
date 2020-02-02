@@ -38,7 +38,7 @@ function load() {
   return ready = true;
 };
 
-function groups(txt) {
+function proteinValue(txt) {
   if(index==null) return [];
   var z = [], txt = txt.replace(/\W|years?|old/gi, ' ');
   var mats = index.search(txt), max = 0;
@@ -48,8 +48,8 @@ function groups(txt) {
     if(Object.keys(mat.matchData.metadata).length===max) z.push(corpus.get(mat.ref));
   return z;
 };
-groups.csv = csv;
-groups.sql = sql;
-groups.load = load;
-groups.corpus = corpus;
-module.exports = groups;
+proteinValue.csv = csv;
+proteinValue.sql = sql;
+proteinValue.load = load;
+proteinValue.corpus = corpus;
+module.exports = proteinValue;
