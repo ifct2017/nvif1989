@@ -1,3 +1,4 @@
+exports.activityClass = require('@nvif1989/activityclass');
 exports.calorieCoefficient = require('@nvif1989/caloriecoefficient');
 exports.codes = require('@nvif1989/codes');
 exports.columns = require('@nvif1989/columns');
