@@ -49,7 +49,7 @@ activityClass('gang man');
 > Take a peek at the raw data here: [Document], [Webpage].
 
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Nutritive value of Proteins]: https://github.com/nvif1989/activityClass/blob/master/index.csv
+[Classification of activities]: https://github.com/nvif1989/activityclass/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/spreadsheets/d/1MgVqwiZXYDj2nGfLqKRMTy2B3GDenzS5Gr_QVBJIifk/edit?usp=sharing
