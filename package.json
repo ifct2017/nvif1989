@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/activityclass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Classification of activities based on occupations in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
