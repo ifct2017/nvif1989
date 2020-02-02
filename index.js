@@ -55,7 +55,7 @@ function findEntry(entry) {
   return null;
 }
 
-function groups(txt) {
+function calorieCoefficient(txt) {
   if(index==null) return [];
   var z = [], txt = txt.replace(/\W|years?|old/gi, ' ');
   var mats = index.search(txt), max = 0;
@@ -70,8 +70,8 @@ function groups(txt) {
   z.unshift(mat);
   return z;
 };
-groups.csv = csv;
-groups.sql = sql;
-groups.load = load;
-groups.corpus = corpus;
-module.exports = groups;
+calorieCoefficient.csv = csv;
+calorieCoefficient.sql = sql;
+calorieCoefficient.load = load;
+calorieCoefficient.corpus = corpus;
+module.exports = calorieCoefficient;
