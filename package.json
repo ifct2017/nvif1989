@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/activityclass",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Classification of activities based on occupations in Nutritive Value of Indian Foods 1989.",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,10 @@
   },
   "homepage": "https://github.com/nvif1989/activityclass#readme",
   "dependencies": {
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
+  },
+  "devDependencies": {
     "csv-parse": "^4.8.5"
   }
 }
