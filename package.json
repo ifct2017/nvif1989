@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/abbreviations",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Full forms of abbreviations used in the original book.",
   "main": "index.js",
   "scripts": {
@@ -37,5 +37,12 @@
   "bugs": {
     "url": "https://github.com/nvif1989/abbreviations/issues"
   },
-  "homepage": "https://github.com/nvif1989/abbreviations#readme"
+  "homepage": "https://github.com/nvif1989/abbreviations#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.6"
+  },
+  "dependencies": {
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
+  }
 }
