@@ -1,6 +1,6 @@
 {
   "name": "nvif1989",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The Nutritive Value of Indian Foods ([NVIF 1989]) provides nutrient composition for 592 key foods.",
   "main": "index.js",
   "scripts": {

@@ -5,9 +5,59 @@ Shown below is a text-query javascript API for search information through these 
 
 ```javascript
 const nvif1989 = require('nvif1989');
-// nvif1989.activityClass(<query>)
-// nvif1989.calorieCoefficient(<query>)
-// ...
+
+
+async function main() {
+await nvif1989.compositions.load();
+await nvif1989.codes.load();
+nvif1989.columns.load();
+nvif1989.groups.load();
+/* load corpus first */
+ 
+// NOTE: grup is wrong, curd is wrong
+nvif1989.compositions('pine apple');
+nvif1989.compositions('ananas comosus');
+nvif1989.compositions('sapuri');
+nvif1989.compositions('294');
+// [
+//   {
+//     code: '294',
+//     name: 'PINE APPLE',
+//     scie: 'Ananas comosus',    lang: 'B. Anarash; G., H., Kan., Mar., P. Ananas; Mal. Kayitha chakka; O. Sapuri Anasianas; Tam. Anasi pazham; Tel. Anasa Pandu',
+//     grup: 'Cereal grains and products',
+//     tags: 'vegetarian eggetarian fishetarian veg',
+//     enerc: 46,
+//     water: 87.8,
+//     ...
+//   }
+// ]
+
+nvif1989.columns('vitamin c');
+nvif1989.columns('c-vitamin');
+// [
+//   {
+//     code: 'vitc',
+//     name: 'Vitamin C',
+//     tags: 'ascorbic acid total ascorbate water soluble essential'
+//   }
+// ]
+
+nvif1989.codes('hing');
+// [ { name: 'Hing (B.,G.,H.,Mar.,P.)', code: '215' } ]
+
+nvif1989.groups('cereals');
+nvif1989.groups('Grains');
+nvif1989.groups('505a');
+// [
+//   {
+//     code: 'A',
+//     group: 'Cereal grains and products',
+//     entries: '1-27;452-465;505a',
+//     tags: 'vegetarian eggetarian fishetarian veg'
+//   }
+// ]
+}
+main();
 ```
 
 ### reference
@@ -28,7 +78,7 @@ const nvif1989 = require('nvif1989');
 | [nutrients]             | Detailed description of various nutrients, and its components.
 | [proteinValue]          | Absorption and bioavailability of different protein sources.
 | [calorieCoefficient]    | Relative calorie requirement of distinct demographics.
-| [activityClass]         | Activity class of person, based on occupation.
+| [activityClass]         | Classification of activities based on occupations.
 | [energies]              | Metabolizable energy conversion factors.
 | [jonesFactors]          | Jones factors for conversion of nitrogen to protein.
 | [carbohydrates]         | Conversion of carbohydrate weights to monosaccharide equivalents.
