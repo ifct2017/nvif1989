@@ -32,6 +32,7 @@ codes('atta');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
 [codes]: https://github.com/nvif1989/codes/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
