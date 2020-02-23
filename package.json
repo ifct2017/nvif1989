@@ -1,0 +1,23 @@
+{
+  "name": "@nvif1989/contents",
+  "version": "0.0.1",
+  "description": "Contents in the original book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/contents.git"
+  },
+  "keywords": [
+    "x",
+    "y"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/contents/issues"
+  },
+  "homepage": "https://github.com/nvif1989/contents#readme"
+}
