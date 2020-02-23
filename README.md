@@ -38,11 +38,11 @@ columns('vitamin b1 stands for?');
 
 
 [![nvif1989](https://i.imgur.com/mGVou5c.png)](https://www.npmjs.com/package/nvif1989)
-> You can ask about composition of 528 key foods in India here: [ifct2017.github.io].<br>
+> You can ask about composition of 592 key foods in India here: [nvif1989.github.io].<br>
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].
 
 [nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
 [Codes and names]: https://github.com/nvif1989/columns/blob/master/index.csv
-[ifct2017.github.io]: https://ifct2017.github.io
+[nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/

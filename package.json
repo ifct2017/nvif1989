@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/columns",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Codes and names of nutrients, and its components.",
   "main": "index.js",
   "scripts": {
