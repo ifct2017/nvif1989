@@ -15,17 +15,20 @@ const contents = require('@nvif1989/contents');
 contents.load();
 /* load corpus first */
 
-contents('table 2');
-contents('Water soluble vitamins');
-// [ { sno: '6.2.',
-//     title: 'Table 2:  Water Soluble Vitamins',
-//     pagenos: '31' } ]
+contents('minerals');
+contents('trace elements');
+// [ { sno: 'T3.',
+//     title: 'Mineral and Trace Elements : Common Foods',
+//     pagenos: '68-73' },
+//   { sno: 'T6.',
+//     title: 'Mineral and Trace Elements : Less Familiar Foods',
+//     pagenos: '80' } ]
 
-contents('what is page number of table 3?');
-contents('fat soluble vitamin page number');
-// [ { sno: '6.3.',
-//     title: 'Table 3:  Fat Soluble Vitamins',
-//     pagenos: '61' } ]
+contents('what is page number of minerals in common foods?');
+contents('common foods trace elements page number');
+// [ { sno: 'T3.',
+//     title: 'Mineral and Trace Elements : Common Foods',
+//     pagenos: '68-73' } ]
 ```
 
 <br>
