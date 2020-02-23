@@ -6,7 +6,6 @@ Shown below is a text-query javascript API for search information through these 
 ```javascript
 const nvif1989 = require('nvif1989');
 
-
 async function main() {
 await nvif1989.compositions.load();
 await nvif1989.codes.load();
