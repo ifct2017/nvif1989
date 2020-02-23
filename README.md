@@ -1,4 +1,6 @@
-[Nutritive value of Proteins] in [Nutritive Value of Indian Foods 1989].
+Absorption and bioavailability of different [protein sources].
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const proteinValue = require('@nvif1989/proteinvalue');
@@ -50,8 +52,9 @@ proteinValue('oilseed');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Nutritive value of Proteins]: https://github.com/nvif1989/proteinvalue/blob/master/index.csv
+[protein sources]: https://github.com/nvif1989/proteinvalue/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/spreadsheets/d/1xyvkD1L5oYW8KP7M0ZOgCt9vJw5r0mEXdMMnDdaizyc/edit?usp=sharing
