@@ -1,4 +1,6 @@
-[Food groups] in [Nutritive Value of Indian Foods 1989].
+[Categorization] of food by their common names.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const groups = require('@nvif1989/groups');
@@ -69,8 +71,9 @@ groups('543');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Food groups]: https://github.com/nvif1989/groups/blob/master/index.csv
+[Categorization]: https://github.com/nvif1989/groups/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/spreadsheets/d/1a1uTkfoyaQeGpSB_20NtIiKibABYOF7w0EErscrgibw/edit?usp=sharing
