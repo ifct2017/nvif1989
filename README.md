@@ -1,4 +1,6 @@
-[Columns] in [Nutritive Value of Indian Foods 1989].
+[Codes and names] of nutrients, and its components.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const columns = require('@nvif1989/columns');
@@ -39,7 +41,8 @@ columns('vitamin b1 stands for?');
 > You can ask about composition of 528 key foods in India here: [ifct2017.github.io].<br>
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Columns]: https://github.com/nvif1989/columns/blob/master/index.csv
+[Codes and names]: https://github.com/nvif1989/columns/blob/master/index.csv
 [ifct2017.github.io]: https://ifct2017.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
