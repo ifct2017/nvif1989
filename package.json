@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/contents",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Contents in the original book.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,26 @@
     "url": "git+https://github.com/nvif1989/contents.git"
   },
   "keywords": [
-    "x",
-    "y"
+    "nvif",
+    "1989",
+    "contents",
+    "nutritive",
+    "value",
+    "indian",
+    "food",
+    "nutrients",
+    "dietary",
+    "compositions",
+    "proximates",
+    "vitamins",
+    "minerals",
+    "amino",
+    "fatty",
+    "b12",
+    "oxalic",
+    "phytin",
+    "phophorous",
+    "fibre"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",
