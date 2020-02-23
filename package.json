@@ -1,7 +1,7 @@
 {
   "name": "@nvif1989/caloriecoefficient",
-  "version": "1.0.4",
-  "description": "Calorie coefficient in Nutritive Value of Indian Foods 1989.",
+  "version": "1.0.5",
+  "description": "Relative calorie requirement of distinct demographics.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
@@ -20,7 +20,18 @@
     "indian",
     "food",
     "composition",
-    "table"
+    "table",
+    "carbohydrates",
+    "proteins",
+    "fats",
+    "amino",
+    "acids",
+    "vitamins",
+    "minerals",
+    "national",
+    "institute",
+    "nutrition",
+    "research"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",

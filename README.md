@@ -1,4 +1,6 @@
-[Calorie coefficient] in [Nutritive Value of Indian Foods 1989].
+Relative [calorie requirement] of distinct demographics.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const calorieCoefficient = require('@nvif1989/caloriecoefficient');
@@ -48,8 +50,9 @@ calorieCoefficient('heavy worker');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Calorie coefficient]: https://github.com/nvif1989/caloriecoefficient/blob/master/index.csv
+[calorie requirement]: https://github.com/nvif1989/caloriecoefficient/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/spreadsheets/d/1p73WlTkJubfbc2jlGSCBZ53nwQ1joACeFJ6SqY4MuGI/edit?usp=sharing
