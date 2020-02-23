@@ -15,15 +15,15 @@ const abbreviations = require('@nvif1989/abbreviations');
 abbreviations.load();
 /* load corpus first */
 
-abbreviations('GLVs');
-abbreviations('g l v s');
-// Green Leafy Vegetables
+abbreviations('BOAA');
+abbreviations('b o a a');
+// { abbr: 'BOAA', full: 'Oxalyldiaminopropionic acid' }
 
-abbreviations('what is D.R.I.');
-abbreviations('d. r. i. stands for?');
+abbreviations('what is R.P.O.');
+abbreviations('r. p. o. stands for?');
 /* (full stops must immediately follow character, if present) */
 /* (for single character abbreviations, full stop is mandatory) */
-// Dietary reference intake
+// { abbr: 'RPO', full: 'Red palm oil' }
 ```
 <br>
 
@@ -34,6 +34,5 @@ abbreviations('d. r. i. stands for?');
 [nvif1989]: https://www.npmjs.com/package/nvif1989
 [abbreviations]: https://github.com/nvif1989/abbreviations/blob/master/index.csv
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Codes and names]: https://github.com/nvif1989/columns/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
