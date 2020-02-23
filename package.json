@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/codes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Uniquely identifiable codes for each food.",
   "main": "index.js",
   "scripts": {

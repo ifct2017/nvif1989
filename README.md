@@ -12,6 +12,7 @@ const codes = require('@nvif1989/codes');
 // -> [{name, code}] for matched food names
 
 
+async function main() {
 await codes.load();
 /* load corpus first */
 
@@ -24,6 +25,8 @@ codes('atta');
 //   { name: 'Atta (B.,H.,O.)', code: '21' },
 //   { name: 'Am-ka-guthli-ka-atta (H.)', code: '546' }
 // ]
+}
+main();
 ```
 
 
