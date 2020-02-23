@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/contents",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Contents in the original book.",
   "main": "index.js",
   "scripts": {
@@ -37,5 +37,12 @@
   "bugs": {
     "url": "https://github.com/nvif1989/contents/issues"
   },
-  "homepage": "https://github.com/nvif1989/contents#readme"
+  "homepage": "https://github.com/nvif1989/contents#readme",
+  "devDependencies": {
+    "csv-parse": "^4.8.6"
+  },
+  "dependencies": {
+    "lunr": "^2.3.8",
+    "sql-extra": "^0.1.13"
+  }
 }
