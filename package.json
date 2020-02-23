@@ -1,7 +1,7 @@
 {
   "name": "@nvif1989/compositions",
-  "version": "1.0.3",
-  "description": "Food compositions in Nutritive Value of Indian Foods 1989.",
+  "version": "1.0.4",
+  "description": "Detailed nutrient composition of 592 key foods in India.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
@@ -18,7 +18,18 @@
     "nutritive",
     "value",
     "indian",
-    "table"
+    "table",
+    "carbohydrates",
+    "proteins",
+    "fats",
+    "amino",
+    "acids",
+    "vitamins",
+    "minerals",
+    "national",
+    "institute",
+    "nutrition",
+    "research"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",

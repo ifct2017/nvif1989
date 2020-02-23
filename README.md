@@ -1,4 +1,6 @@
-[Food compositions] in [Nutritive Value of Indian Foods 1989].
+Detailed [nutrient composition] of 592 key foods in India.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const compositions = require('@nvif1989/compositions');
@@ -10,6 +12,7 @@ const compositions = require('@nvif1989/compositions');
 // -> [{code, name, scie, lang, grup, tags, ...}] for matched foods
 
 
+async function main() {
 await compositions.load();
 /* load corpus first */
 
@@ -67,6 +70,8 @@ compositions('tell me about khoa.');
 //     ...
 //   }
 // ]
+}
+main();
 ```
 
 
@@ -75,8 +80,9 @@ compositions('tell me about khoa.');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [CSV].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Food compositions]: https://github.com/nvif1989/compositions/blob/master/index.csv
+[nutrient composition]: https://github.com/nvif1989/compositions/blob/master/index.csv
 [CSV]: https://github.com/nvif1989/compositions/blob/master/assets/
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
