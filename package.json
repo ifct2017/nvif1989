@@ -1,7 +1,7 @@
 {
   "name": "@nvif1989/descriptions",
-  "version": "1.0.6",
-  "description": "Food descriptions in Nutritive Value of Indian Foods 1989.",
+  "version": "1.0.7",
+  "description": "Names of each food in local languages, including scientific name.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
@@ -19,7 +19,18 @@
     "value",
     "indian",
     "composition",
-    "table"
+    "table",
+    "carbohydrates",
+    "proteins",
+    "fats",
+    "amino",
+    "acids",
+    "vitamins",
+    "minerals",
+    "national",
+    "institute",
+    "nutrition",
+    "research"
   ],
   "author": "wolfram77@gmail.com",
   "license": "MIT",

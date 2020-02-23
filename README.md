@@ -1,4 +1,6 @@
-[Food descriptions] in [Nutritive Value of Indian Foods 1989].
+[Names] of each food in local languages, including scientific name.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const descriptions = require('@nvif1989/descriptions');
@@ -10,6 +12,7 @@ const descriptions = require('@nvif1989/descriptions');
 // -> [{code, name, scie, desc}] for matched foods
 
 
+async function main() {
 await descriptions.load();
 /* load corpus first */
 
@@ -62,6 +65,8 @@ descriptions('Raphanus sativus');
 //     scie: 'Raphanus sativus',
 //     desc:
 //      'B., G., Mar., O. Mula; H., P. Muli; Kan., Mal.; Tam., Tel. Mullangi; Kash. Muj; Other name: Wuazu' } ]
+}
+main();
 ```
 
 
@@ -70,8 +75,9 @@ descriptions('Raphanus sativus');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
-[Food descriptions]: https://github.com/nvif1989/descriptions/blob/master/index.csv
+[Names]: https://github.com/nvif1989/descriptions/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
 [National Institute of Nutrition, Hyderabad]: https://www.nin.res.in/
 [Document]: https://docs.google.com/spreadsheets/d/1mQgRIU0EO8t1ZT72Fc6qAgcWBoqBTMK-gYl5fS9CrFE/edit?usp=sharing
