@@ -1,6 +1,6 @@
 {
   "name": "@nvif1989/contents",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Contents in the original book.",
   "main": "index.js",
   "scripts": {
