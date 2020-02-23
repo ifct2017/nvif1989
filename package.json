@@ -1,0 +1,41 @@
+{
+  "name": "@nvif1989/abbreviations",
+  "version": "0.0.1",
+  "description": "Full forms of abbreviations used in the original book.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvif1989/abbreviations.git"
+  },
+  "keywords": [
+    "nvif",
+    "1989",
+    "abbreviations",
+    "nutritive",
+    "value",
+    "indian",
+    "food",
+    "aas",
+    "aoac",
+    "apci",
+    "bmr",
+    "boaa",
+    "bv",
+    "cal",
+    "cbc",
+    "cf",
+    "cftri",
+    "chd",
+    "cho",
+    "crm"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvif1989/abbreviations/issues"
+  },
+  "homepage": "https://github.com/nvif1989/abbreviations#readme"
+}
