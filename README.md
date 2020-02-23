@@ -1,4 +1,6 @@
-[Classification of activities] based on occupations in [Nutritive Value of Indian Foods 1989].
+[Classification of activities] based on occupations.
+> This is part of package [nvif1989].<br>
+> Source: [Nutritive Value of Indian Foods 1989].
 
 ```javascript
 const activityClass = require('@nvif1989/activityclass');
@@ -48,6 +50,7 @@ activityClass('gang man');
 > Food composition values were measured by [National Institute of Nutrition, Hyderabad].<br>
 > Take a peek at the raw data here: [Document], [Webpage].
 
+[nvif1989]: https://www.npmjs.com/package/nvif1989
 [Nutritive Value of Indian Foods 1989]: https://www.icmr.nic.in/content/nutritive-value-indian-foods-nvif-c-gopalan-b-v-rama-sastri-sc-balasubramanian-revised
 [Classification of activities]: https://github.com/nvif1989/activityclass/blob/master/index.csv
 [nvif1989.github.io]: https://nvif1989.github.io
