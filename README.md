@@ -72,7 +72,7 @@ main();
 | [codes]                 | Uniquely identifiable codes for each food.
 | [groups]                | Categorization of food by their common names.
 | [descriptions]          | Names of each food in local languages, including scientific name.
-| *abbreviations*         | Full forms of abbreviations used in the original book.
+| [abbreviations]         | Full forms of abbreviations used in the original book.
 | [languages]             | Full form of language abbreviations.
 | [nutrients]             | Detailed description of various nutrients, and its components.
 | [proteinValue]          | Absorption and bioavailability of different protein sources.
@@ -90,11 +90,13 @@ main();
 
 [![nodef](https://i.imgur.com/mGVou5c.png)](https://nodef.github.io)
 
+[abbreviations]: https://www.npmjs.com/package/@nvif1989/abbreviations
 [activityClass]: https://www.npmjs.com/package/@nvif1989/activityclass
 [calorieCoefficient]: https://www.npmjs.com/package/@nvif1989/caloriecoefficient
 [codes]: https://www.npmjs.com/package/@nvif1989/codes
 [columns]: https://www.npmjs.com/package/@nvif1989/columns
 [compositions]: https://www.npmjs.com/package/@nvif1989/compositions
+[contents]: https://www.npmjs.com/package/@nvif1989/contents
 [descriptions]: https://www.npmjs.com/package/@nvif1989/descriptions
 [groups]: https://www.npmjs.com/package/@nvif1989/groups
 [languages]: https://www.npmjs.com/package/@nvif1989/languages

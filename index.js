@@ -7,3 +7,5 @@ exports.descriptions = require('@nvif1989/descriptions');
 exports.groups = require('@nvif1989/groups');
 exports.languages = require('@nvif1989/languages');
 exports.proteinValue = require('@nvif1989/proteinvalue');
+exports.contents = require('@nvif1989/contents');
+exports.abbreviations = require('@nvif1989/abbreviations');

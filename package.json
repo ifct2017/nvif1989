@@ -1,6 +1,6 @@
 {
   "name": "nvif1989",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "The Nutritive Value of Indian Foods ([NVIF 1989]) provides nutrient composition for 592 key foods.",
   "main": "index.js",
   "scripts": {
@@ -39,11 +39,13 @@
   },
   "homepage": "https://github.com/nvif1989/nvif1989#readme",
   "dependencies": {
+    "@nvif1989/abbreviations": "^1.0.0",
     "@nvif1989/activityclass": "1",
     "@nvif1989/caloriecoefficient": "1",
     "@nvif1989/codes": "1",
     "@nvif1989/columns": "1",
     "@nvif1989/compositions": "1",
+    "@nvif1989/contents": "^1.0.0",
     "@nvif1989/descriptions": "1",
     "@nvif1989/groups": "1",
     "@nvif1989/languages": "1",
