@@ -1,0 +1,12 @@
+name,group,bv,npu,per
+Egg,Animal proteins,96,96,3.8
+Milk,Animal proteins,90,85,2.8
+Meat,Animal proteins,74,76,3.2
+Fish,Animal proteins,80,74,3.5
+Rice,Cereals,80,77,1.7
+Wheat,Cereals,66,61,1.3
+Maize,Cereals,50,48,1.0
+Bengal gram,Pulses,74,61,1.1
+Red gram,Pulses,72,54,1.7
+Groundnut,Oilseeds,55,,
+Gingelly,Oilseeds,62,,

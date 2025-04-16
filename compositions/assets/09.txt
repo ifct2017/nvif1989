@@ -1,0 +1,26 @@
+# Nutritive Value of Indian Foods 1989
+# C. Gopalan, B. V. Rama Sastri, S. C. Balasubramanian
+# B. S. Narasinga Rao, Y. G. Deosthale, K. C. Pant : revised by
+#
+# Copyright © 1989 by National Institute of Nutrition
+# Indian Council of Medical Research
+# Department of Health Research Ministry of Health and Family Welfare, Government of India
+# Jamai Osmania (PO), Hyderabad – 500 007
+# Telangana, India Phone: +91 40 27197334, Fax: +91 40 27000339, Email: nin@ap.nic.in
+#
+# FATTY ACID COMPOSITION OF SOME IMPORTANT EDIBLE OILS AND FATS
+# (Values are percentage of total methylester of fatty acid)
+# - SI. No.
+# - Oil / Fats
+# - Palmitic 16:0 [%]
+# - Stearic 18:0 [%]
+# - Arachidic 20:0 [%]
+# - Behenic 22:0 [%]
+# - Lignoceric 24:0 [%]
+# - Total Saturates [%]
+# - Palmitoleic 16:1 [%]
+# - Oleic 18:1 [%]
+# - Total Monounsaturates [%]
+# - Linoleic 18:2 n-6 [%]
+# - a-Linolenic 18:3 n-3 [%]
+# - Total Polyunsaturates [%]
